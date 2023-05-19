@@ -1,0 +1,181 @@
+classifier,period_length,sampling_rate,accuracy,f1_score,best_params_
+AdaBoostClassifier,0,0,0.941,0.942,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 0.1, 'n_estimators': 20}"
+AdaBoostClassifier,1000,1000,0.922,0.923,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1300,1000,0.951,0.952,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 155}"
+AdaBoostClassifier,1500,1000,0.949,0.950,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1800,1000,0.949,0.950,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,2000,1000,0.936,0.937,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 155}"
+AdaBoostClassifier,2200,1000,0.943,0.945,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,2500,1000,0.937,0.938,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1000,2000,0.915,0.915,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1300,2000,0.951,0.952,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 155}"
+AdaBoostClassifier,1500,2000,0.947,0.948,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1800,2000,0.950,0.951,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 155}"
+AdaBoostClassifier,2000,2000,0.946,0.947,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,2200,2000,0.940,0.941,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,2500,2000,0.953,0.954,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1000,5000,0.905,0.906,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1300,5000,0.957,0.957,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1500,5000,0.920,0.921,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1800,5000,0.951,0.952,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,2000,5000,0.946,0.947,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 155}"
+AdaBoostClassifier,2200,5000,0.936,0.937,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,2500,5000,0.950,0.951,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1000,10000,0.933,0.934,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1300,10000,0.961,0.961,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1500,10000,0.962,0.963,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1800,10000,0.951,0.952,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,2000,10000,0.943,0.945,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,2200,10000,0.930,0.932,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,2500,10000,0.933,0.934,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 155}"
+AdaBoostClassifier,1000,20000,0.916,0.916,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 155}"
+AdaBoostClassifier,1300,20000,0.941,0.942,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1500,20000,0.938,0.939,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,1800,20000,0.943,0.944,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 155}"
+AdaBoostClassifier,2000,20000,0.940,0.941,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,2200,20000,0.933,0.934,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+AdaBoostClassifier,2500,20000,0.941,0.942,"{'estimator': DecisionTreeClassifier(max_depth=3), 'learning_rate': 1, 'n_estimators': 200}"
+GaussianNB,0,0,0.886,0.887,{'var_smoothing': 0.0001}
+GaussianNB,1000,1000,0.796,0.772,{'var_smoothing': 0.0001}
+GaussianNB,1300,1000,0.777,0.742,{'var_smoothing': 0.0001}
+GaussianNB,1500,1000,0.763,0.722,{'var_smoothing': 0.001}
+GaussianNB,1800,1000,0.753,0.704,{'var_smoothing': 0.001}
+GaussianNB,2000,1000,0.748,0.696,{'var_smoothing': 0.001}
+GaussianNB,2200,1000,0.739,0.684,{'var_smoothing': 0.001}
+GaussianNB,2500,1000,0.716,0.656,{'var_smoothing': 0.001}
+GaussianNB,1000,2000,0.795,0.770,{'var_smoothing': 0.0001}
+GaussianNB,1300,2000,0.778,0.744,{'var_smoothing': 0.0001}
+GaussianNB,1500,2000,0.763,0.722,{'var_smoothing': 0.001}
+GaussianNB,1800,2000,0.753,0.704,{'var_smoothing': 0.001}
+GaussianNB,2000,2000,0.748,0.696,{'var_smoothing': 0.001}
+GaussianNB,2200,2000,0.739,0.684,{'var_smoothing': 0.001}
+GaussianNB,2500,2000,0.716,0.656,{'var_smoothing': 0.001}
+GaussianNB,1000,5000,0.794,0.769,{'var_smoothing': 0.0001}
+GaussianNB,1300,5000,0.778,0.744,{'var_smoothing': 0.0001}
+GaussianNB,1500,5000,0.762,0.720,{'var_smoothing': 0.001}
+GaussianNB,1800,5000,0.753,0.704,{'var_smoothing': 0.001}
+GaussianNB,2000,5000,0.748,0.696,{'var_smoothing': 0.001}
+GaussianNB,2200,5000,0.739,0.684,{'var_smoothing': 0.001}
+GaussianNB,2500,5000,0.717,0.657,{'var_smoothing': 0.001}
+GaussianNB,1000,10000,0.796,0.771,{'var_smoothing': 0.0001}
+GaussianNB,1300,10000,0.773,0.737,{'var_smoothing': 0.0001}
+GaussianNB,1500,10000,0.761,0.719,{'var_smoothing': 0.001}
+GaussianNB,1800,10000,0.752,0.704,{'var_smoothing': 0.001}
+GaussianNB,2000,10000,0.745,0.694,{'var_smoothing': 0.001}
+GaussianNB,2200,10000,0.736,0.681,{'var_smoothing': 0.001}
+GaussianNB,2500,10000,0.712,0.652,{'var_smoothing': 0.001}
+GaussianNB,1000,20000,0.791,0.764,{'var_smoothing': 0.0001}
+GaussianNB,1300,20000,0.771,0.734,{'var_smoothing': 0.0001}
+GaussianNB,1500,20000,0.760,0.717,{'var_smoothing': 0.001}
+GaussianNB,1800,20000,0.752,0.706,{'var_smoothing': 0.001}
+GaussianNB,2000,20000,0.741,0.690,{'var_smoothing': 0.001}
+GaussianNB,2200,20000,0.731,0.676,{'var_smoothing': 0.001}
+GaussianNB,2500,20000,0.710,0.650,{'var_smoothing': 0.001}
+LogisticRegression,0,0,0.984,0.984,{'C': 100}
+LogisticRegression,1000,1000,0.924,0.924,{'C': 100}
+LogisticRegression,1300,1000,0.938,0.939,{'C': 100}
+LogisticRegression,1500,1000,0.929,0.930,{'C': 100}
+LogisticRegression,1800,1000,0.922,0.924,{'C': 100}
+LogisticRegression,2000,1000,0.921,0.922,{'C': 100}
+LogisticRegression,2200,1000,0.919,0.920,{'C': 100}
+LogisticRegression,2500,1000,0.921,0.923,{'C': 100}
+LogisticRegression,1000,2000,0.917,0.918,{'C': 100}
+LogisticRegression,1300,2000,0.937,0.938,{'C': 100}
+LogisticRegression,1500,2000,0.937,0.938,{'C': 100}
+LogisticRegression,1800,2000,0.920,0.921,{'C': 100}
+LogisticRegression,2000,2000,0.920,0.921,{'C': 100}
+LogisticRegression,2200,2000,0.921,0.922,{'C': 100}
+LogisticRegression,2500,2000,0.920,0.921,{'C': 100}
+LogisticRegression,1000,5000,0.922,0.923,{'C': 100}
+LogisticRegression,1300,5000,0.932,0.933,{'C': 100}
+LogisticRegression,1500,5000,0.925,0.926,{'C': 100}
+LogisticRegression,1800,5000,0.925,0.926,{'C': 100}
+LogisticRegression,2000,5000,0.922,0.924,{'C': 100}
+LogisticRegression,2200,5000,0.915,0.916,{'C': 100}
+LogisticRegression,2500,5000,0.921,0.922,{'C': 100}
+LogisticRegression,1000,10000,0.926,0.927,{'C': 100}
+LogisticRegression,1300,10000,0.921,0.922,{'C': 100}
+LogisticRegression,1500,10000,0.932,0.933,{'C': 100}
+LogisticRegression,1800,10000,0.922,0.923,{'C': 100}
+LogisticRegression,2000,10000,0.907,0.908,{'C': 100}
+LogisticRegression,2200,10000,0.921,0.922,{'C': 100}
+LogisticRegression,2500,10000,0.916,0.917,{'C': 100}
+LogisticRegression,1000,20000,0.922,0.923,{'C': 100}
+LogisticRegression,1300,20000,0.928,0.929,{'C': 100}
+LogisticRegression,1500,20000,0.929,0.930,{'C': 100}
+LogisticRegression,1800,20000,0.924,0.925,{'C': 100}
+LogisticRegression,2000,20000,0.916,0.917,{'C': 100}
+LogisticRegression,2200,20000,0.916,0.917,{'C': 100}
+LogisticRegression,2500,20000,0.913,0.915,{'C': 100}
+RandomForestClassifier,0,0,0.995,0.995,"{'criterion': 'entropy', 'max_depth': 80, 'n_estimators': 120}"
+RandomForestClassifier,1000,1000,0.979,0.979,"{'criterion': 'log_loss', 'max_depth': 60, 'n_estimators': 200}"
+RandomForestClassifier,1300,1000,0.983,0.983,"{'criterion': 'gini', 'max_depth': 40, 'n_estimators': 120}"
+RandomForestClassifier,1500,1000,0.983,0.983,"{'criterion': 'log_loss', 'max_depth': 80, 'n_estimators': 200}"
+RandomForestClassifier,1800,1000,0.988,0.988,"{'criterion': 'entropy', 'max_depth': 100, 'n_estimators': 80}"
+RandomForestClassifier,2000,1000,0.986,0.986,"{'criterion': 'log_loss', 'max_depth': 100, 'n_estimators': 500}"
+RandomForestClassifier,2200,1000,0.984,0.984,"{'criterion': 'entropy', 'max_depth': 20, 'n_estimators': 50}"
+RandomForestClassifier,2500,1000,0.983,0.983,"{'criterion': 'log_loss', 'max_depth': 60, 'n_estimators': 500}"
+RandomForestClassifier,1000,2000,0.978,0.978,"{'criterion': 'gini', 'max_depth': 20, 'n_estimators': 200}"
+RandomForestClassifier,1300,2000,0.986,0.986,"{'criterion': 'log_loss', 'max_depth': 40, 'n_estimators': 80}"
+RandomForestClassifier,1500,2000,0.984,0.984,"{'criterion': 'log_loss', 'max_depth': 80, 'n_estimators': 800}"
+RandomForestClassifier,1800,2000,0.987,0.987,"{'criterion': 'entropy', 'max_depth': 60, 'n_estimators': 200}"
+RandomForestClassifier,2000,2000,0.987,0.987,"{'criterion': 'entropy', 'max_depth': 80, 'n_estimators': 80}"
+RandomForestClassifier,2200,2000,0.984,0.984,"{'criterion': 'log_loss', 'max_depth': 100, 'n_estimators': 200}"
+RandomForestClassifier,2500,2000,0.986,0.986,"{'criterion': 'entropy', 'max_depth': 80, 'n_estimators': 200}"
+RandomForestClassifier,1000,5000,0.979,0.979,"{'criterion': 'gini', 'max_depth': 60, 'n_estimators': 800}"
+RandomForestClassifier,1300,5000,0.986,0.986,"{'criterion': 'log_loss', 'max_depth': 60, 'n_estimators': 500}"
+RandomForestClassifier,1500,5000,0.983,0.983,"{'criterion': 'entropy', 'max_depth': 80, 'n_estimators': 200}"
+RandomForestClassifier,1800,5000,0.986,0.986,"{'criterion': 'entropy', 'max_depth': 40, 'n_estimators': 200}"
+RandomForestClassifier,2000,5000,0.984,0.984,"{'criterion': 'gini', 'max_depth': 40, 'n_estimators': 200}"
+RandomForestClassifier,2200,5000,0.984,0.984,"{'criterion': 'log_loss', 'max_depth': 40, 'n_estimators': 120}"
+RandomForestClassifier,2500,5000,0.980,0.980,"{'criterion': 'entropy', 'max_depth': 40, 'n_estimators': 80}"
+RandomForestClassifier,1000,10000,0.979,0.979,"{'criterion': 'gini', 'max_depth': 40, 'n_estimators': 800}"
+RandomForestClassifier,1300,10000,0.986,0.986,"{'criterion': 'gini', 'max_depth': 100, 'n_estimators': 500}"
+RandomForestClassifier,1500,10000,0.986,0.986,"{'criterion': 'entropy', 'max_depth': 20, 'n_estimators': 80}"
+RandomForestClassifier,1800,10000,0.988,0.988,"{'criterion': 'gini', 'max_depth': 60, 'n_estimators': 200}"
+RandomForestClassifier,2000,10000,0.986,0.986,"{'criterion': 'entropy', 'max_depth': 60, 'n_estimators': 120}"
+RandomForestClassifier,2200,10000,0.986,0.986,"{'criterion': 'log_loss', 'max_depth': 80, 'n_estimators': 200}"
+RandomForestClassifier,2500,10000,0.984,0.984,"{'criterion': 'entropy', 'max_depth': 80, 'n_estimators': 800}"
+RandomForestClassifier,1000,20000,0.982,0.982,"{'criterion': 'gini', 'max_depth': 100, 'n_estimators': 80}"
+RandomForestClassifier,1300,20000,0.980,0.981,"{'criterion': 'entropy', 'max_depth': 20, 'n_estimators': 80}"
+RandomForestClassifier,1500,20000,0.986,0.986,"{'criterion': 'gini', 'max_depth': 80, 'n_estimators': 120}"
+RandomForestClassifier,1800,20000,0.988,0.988,"{'criterion': 'log_loss', 'max_depth': 60, 'n_estimators': 800}"
+RandomForestClassifier,2000,20000,0.988,0.988,"{'criterion': 'entropy', 'max_depth': 40, 'n_estimators': 500}"
+RandomForestClassifier,2200,20000,0.987,0.987,"{'criterion': 'log_loss', 'max_depth': 60, 'n_estimators': 120}"
+RandomForestClassifier,2500,20000,0.984,0.984,"{'criterion': 'entropy', 'max_depth': 60, 'n_estimators': 200}"
+SVC,0,0,0.993,0.994,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1000,1000,0.950,0.951,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1300,1000,0.967,0.967,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1500,1000,0.959,0.960,"{'C': 100, 'kernel': 'linear'}"
+SVC,1800,1000,0.958,0.958,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2000,1000,0.961,0.961,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2200,1000,0.957,0.957,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2500,1000,0.954,0.955,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1000,2000,0.950,0.951,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1300,2000,0.966,0.966,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1500,2000,0.959,0.960,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1800,2000,0.958,0.958,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2000,2000,0.961,0.961,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2200,2000,0.957,0.957,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2500,2000,0.954,0.955,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1000,5000,0.951,0.952,"{'C': 100, 'kernel': 'linear'}"
+SVC,1300,5000,0.963,0.964,"{'C': 100, 'kernel': 'linear'}"
+SVC,1500,5000,0.959,0.960,"{'C': 100, 'kernel': 'linear'}"
+SVC,1800,5000,0.954,0.955,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2000,5000,0.955,0.956,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2200,5000,0.954,0.955,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2500,5000,0.953,0.953,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1000,10000,0.947,0.948,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1300,10000,0.963,0.964,"{'C': 100, 'kernel': 'linear'}"
+SVC,1500,10000,0.961,0.961,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1800,10000,0.957,0.957,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2000,10000,0.958,0.959,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2200,10000,0.955,0.956,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2500,10000,0.955,0.956,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1000,20000,0.943,0.944,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1300,20000,0.961,0.961,"{'C': 100, 'kernel': 'linear'}"
+SVC,1500,20000,0.963,0.964,"{'C': 100, 'kernel': 'rbf'}"
+SVC,1800,20000,0.955,0.956,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2000,20000,0.957,0.957,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2200,20000,0.955,0.956,"{'C': 100, 'kernel': 'rbf'}"
+SVC,2500,20000,0.954,0.955,"{'C': 100, 'kernel': 'rbf'}"
